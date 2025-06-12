@@ -1,0 +1,7 @@
+[build]
+  # This tells Netlify that your website's files are in the root directory.
+  publish = "."
+
+
+[functions]
+  directory = "netlify/functions/"
